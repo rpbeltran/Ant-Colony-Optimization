@@ -1,0 +1,8 @@
+
+class Colony {
+
+    population : number;
+
+
+
+}
